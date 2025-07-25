@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Mergers & Acquisitions - business and AI integration
+Mergers & Acquisitions | Biz & IT Transformation
 
 ### More Information
 
