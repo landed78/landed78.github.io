@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Integrating AI 
+Mergers & Acquisitions - business and AI integration for growth
 
 ### More Information
 
-Take action and seeing the bigger picture.
+Looking to connect the dots backwards and then forwards.
 
 ### Contact me
 
