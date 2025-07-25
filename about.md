@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Mergers & Acquisitions - business and AI integration for growth
+Mergers & Acquisitions - business and AI integration
 
 ### More Information
 
-Looking to connect the dots backwards and then forwards.
+Connecting the dots backwards and then forwards.
+
+This page was created from scratch and hosted on github.io
 
 ### Contact me
 
