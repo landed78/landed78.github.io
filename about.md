@@ -21,11 +21,14 @@ I have worked for many different organisations across many different industries 
 
 Lastly, I enjoy connecting and helping people succeed in life - whether it's volunteering or helping someone fix their bike. 
 
+<br>
 
 ### Header 2 Career Archivements:
-* 1st team in the state - Web design award in H.S;
-* Stanford Global Innovation Challenge - Social innovation;
+* 1st team in the state - Web design award in H.S
+* Stanford Global Innovation Challenge - Social innovation
 * W3C.org/WaSP contributor
+
+<br>
 
 Note: This page was created from scratch using Jekyll and hosted on github.io
 
