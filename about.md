@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-AI integrator and strategyzer. 
+Tony Lan - AI integrator and Strategyzer. 
+
+Hands-on, self-starter, going above and beyond.
 
 ### About Me
-Hands-on, self-starter, going above and beyond.
+
 
 Growing up, I have always been curious about alot of things and building things from scratch (aka reverse engineering). I grew up in the 90s learning to program in Visual basic, self-taught web development and photoshop and was great at drawing and electronics.
 
