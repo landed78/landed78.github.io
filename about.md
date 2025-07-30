@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Tony Lan - AI integrator and Strategyzer. 
+Tony Lan
 
 Hands-on, self-starter, going above and beyond.
 
