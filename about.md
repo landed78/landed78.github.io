@@ -10,7 +10,7 @@ _Hands-on, self-starter, going above and beyond._
 
 _I help businesses generate new growth through mergers & acquisitions and AI integration._
 
-### Header 2 My Journey so far
+<h2>My Journey so far</h2> 
 
 
 Growing up I have always been curious about alot of things, how things were built and how things worked with and without human intervention. I grew up in the 90s learning to program in Visual basic, self-taught web development and photoshop. I also excelled in the creative arts (e.g. drawing) and micro-electronics.
