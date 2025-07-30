@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aiming for the stars
+title: Top 5 Uses of Generative AI in 2025
 ---
 
 ### Top 5 Uses of Generative AI (2025)
