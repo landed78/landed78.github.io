@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Tony Lan
+**Tony Lan**
 
-Hands-on, self-starter, going above and beyond.
+_Hands-on, self-starter, going above and beyond._
 
-I help businesses generate new growth through mergers & acquisitions and AI integration.
+_I help businesses generate new growth through mergers & acquisitions and AI integration._
 
 ### Header 2 My Journey so far
 
