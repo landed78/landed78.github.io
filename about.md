@@ -8,7 +8,7 @@ permalink: /about/
 
 _Hands-on, self-starter, going above and beyond._
 
-_I help businesses generate new growth through mergers & acquisitions and AI integration._
+_I help businesses generate growth using AI integration strategies._
 
 <h2>My Journey so far</h2> 
 
@@ -17,7 +17,7 @@ Growing up I have always been curious about alot of things, how things were buil
 
 I studied computer science and information systems at Macquarie University (Sydney, Australia) where I learnt natural language technology (comp240/248) the foundations of machine learning/artificial intelligence. I later pursued a Masters of Arts at UTS focusing on communication and organisational science - this is where I developed a deep passion for combining the arts and sciences.
 
-I have worked for many different organisations across many different industries and met colleagues from all parts of the world. I started in IBM consulting, PwC/Strategy& and spent the past decade as an independant analyst/consultant (no non-sense analysis and project delivery). I have a proven track record from many organisations such as IBM, Woolworths, Telstra, CentralNIC, NAB/MLC, Westpac, CBRE, Cochlear and Suncorp).
+I have worked for many different organisations (small, medium and large) across many different industries and met colleagues from all parts of the world. I started in IBM consulting, PwC/Strategy& and spent the past decade as an independant analyst/consultant (no non-sense analysis and project delivery). I have a proven track record from many organisations such as IBM, Woolworths, Telstra, CentralNIC, NAB/MLC, Westpac, CBRE, Cochlear and Suncorp).
 
 Lastly, I enjoy connecting and helping people succeed in life - whether it's volunteering or helping someone fix their bike. 
 
