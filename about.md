@@ -8,7 +8,7 @@ permalink: /about/
 
 _Hands-on, self-starter, going above and beyond._
 
-_I help businesses generate growth using AI integration strategies._
+_I helped businesses integrate driving $1.5B+ in ROI_
 
 <h2>My Journey so far</h2> 
 
